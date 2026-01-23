@@ -12,5 +12,5 @@ Rust > C++.
 5) `cargo r < input.txt`
 6) `bash build.sh`
 7) Submit `solution.rs`
-8) Update `main.rs` to say `mod b`
+8) Update `main.rs` to say `mod b` and `b::solve()`
 9) Goto 3
